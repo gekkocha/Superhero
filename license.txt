@@ -1,0 +1,11 @@
+Model Information:
+* title:	Create Your Superhero Suit
+* source:	https://sketchfab.com/3d-models/create-your-superhero-suit-d0ae1fc4d0684d80826530d9b0719cbc
+* author:	qtsamo (https://sketchfab.com/qtsamo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Create Your Superhero Suit" (https://sketchfab.com/3d-models/create-your-superhero-suit-d0ae1fc4d0684d80826530d9b0719cbc) by qtsamo (https://sketchfab.com/qtsamo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
